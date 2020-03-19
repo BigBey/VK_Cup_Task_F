@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VK_Cup_Task_F</string>
+    <integer name="com_vk_sdk_AppId">7330488</integer>
+    <string name="unsubscribe_from_group">Отписаться от сообществ</string>
+    <string name="long_tap_for_extra_info">Коснитесь и удерживайте,\n чтобы увидеть информацию\nо сообществе</string>
+    <string name="groups">Сообщества</string>
+    <string name="open">Открыть</string>
+    <string name="leave">Отписаться</string>
+</resources>
